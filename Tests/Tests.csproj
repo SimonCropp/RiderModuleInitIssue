@@ -5,6 +5,6 @@
   <ItemGroup>
     <Using Remove="System.Net.Http" />
     <PackageReference Include="Argon" Version="0.5.1" />
-    <ProjectReference Include="..\AustralianProtectiveMarkings\AustralianProtectiveMarkings.csproj" />
+    <ProjectReference Include="..\RiderModuleInitIssue\RiderModuleInitIssue.csproj" />
   </ItemGroup>
 </Project>
